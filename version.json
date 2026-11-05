@@ -1,9 +1,9 @@
 {
-  "version": "1.4",
-  "versionCode": 140,
-  "apk": "https://github.com/jingzun11/tianxuan-simulator/raw/main/TianxuanSim-V1.4.apk",
+  "version": "1.5",
+  "versionCode": 150,
+  "apk": "https://github.com/jingzun11/tianxuan-simulator/raw/main/TianxuanSim-V1.5.apk",
   "releaseUrl": "https://github.com/jingzun11/tianxuan-simulator/releases",
-  "releaseNotes": "修掉三处卡关：行动选项点了被「已取消」回滚、月份推不动（安卓 WebView 吞掉原生 confirm → 全部改自绘弹层）；清除本机全部存档点了没反应（同源，且清完立即刷新界面）；检查更新手机上一律连不上（响应文本解析 + 四源重排 + 每源 5 秒超时 + 失败给逐源诊断）。另修：弹层关过一次就再也弹不出来。新增：设置 → 维护 →「修复记录」逐版列改动、「自检」16 项检查，并在启动时静默自检，只在有硬伤时告警",
+  "releaseNotes": "新增独立首页：继续游戏 / 新游戏 / 存档查看 / 道果码恢复，右上角设置。修退出软件不存档：切后台、锁屏、失焦、安卓 onPause 全部强制落盘。界面换成水墨仙侠风，灵石做成青玉质感。境界改九境百级：凡人不再是境界，从炼气起算，大乘 81~100 级。设置新增「报一个 bug」与「返回首页」。全量点测 60 多个控件无报错。",
   "publishedAt": "2026-11-05",
   "minAndroid": "5.0",
   "author": {
