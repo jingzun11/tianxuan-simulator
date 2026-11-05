@@ -1,0 +1,14 @@
+{
+  "version": "1.1",
+  "versionCode": 110,
+  "apk": "https://github.com/jingzun11/tianxuan-simulator/raw/main/TianxuanSim-V1.1.apk",
+  "releaseUrl": "https://github.com/jingzun11/tianxuan-simulator/releases",
+  "releaseNotes": "修复年龄选项无法选中、勾选遮挡文字；新增灵根/道韵随机、八域详情、开局包详情、域说明联动、完整设置页",
+  "publishedAt": "2026-11-05",
+  "minAndroid": "5.0",
+  "author": {
+    "phone": "17685562923",
+    "qq": "914739199",
+    "repo": "https://github.com/jingzun11/tianxuan-simulator"
+  }
+}
