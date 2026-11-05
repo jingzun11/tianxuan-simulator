@@ -1,9 +1,9 @@
 {
-  "version": "1.1",
-  "versionCode": 110,
-  "apk": "https://github.com/jingzun11/tianxuan-simulator/raw/main/TianxuanSim-V1.1.apk",
+  "version": "1.2",
+  "versionCode": 120,
+  "apk": "https://github.com/jingzun11/tianxuan-simulator/raw/main/TianxuanSim-V1.2.apk",
   "releaseUrl": "https://github.com/jingzun11/tianxuan-simulator/releases",
-  "releaseNotes": "修复年龄选项无法选中、勾选遮挡文字；新增灵根/道韵随机、八域详情、开局包详情、域说明联动、完整设置页",
+  "releaseNotes": "新增「人生纪事」页：每月选择与结果自动成卷，五格统计 + 倒序卡片流 + 折叠展开 + 每 60 个月翻页；决策罗盘改中文数字圆牌、分组标签与描金 hover；灵根/道韵加「听天由命」翻滚抽取与再抽一次；结算浮层逐行渐入并新增「已记入纪事」直达；修复设置里字体缩放无效（px 全量改 rem + 根字幕缩放异常）；桌面端内容与标签栏居中收窄；检查更新改用 api.github.com 并加超时；清理缓存改为只删临时数据、存档与设置一律保留",
   "publishedAt": "2026-11-05",
   "minAndroid": "5.0",
   "author": {
