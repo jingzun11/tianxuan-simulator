@@ -1,9 +1,9 @@
 {
-  "version": "1.3",
-  "versionCode": 130,
-  "apk": "https://github.com/jingzun11/tianxuan-simulator/raw/main/TianxuanSim-V1.3.apk",
+  "version": "1.4",
+  "versionCode": 140,
+  "apk": "https://github.com/jingzun11/tianxuan-simulator/raw/main/TianxuanSim-V1.4.apk",
   "releaseUrl": "https://github.com/jingzun11/tianxuan-simulator/releases",
-  "releaseNotes": "修掉三个卡关问题：行动选项点了被「已取消」回滚、月份推不动（原生 confirm 被 WebView 吞掉，改自绘弹层）；清除本机全部存档点了没反应（同源，改自绘弹层并清完立即刷新界面）；检查更新在手机上一律连不上（改用响应文本解析 + 多源重排 + 每源 5 秒超时 + 失败给诊断信息）。新增：设置 → 维护 → 「修复记录」逐版列出改动；「自检」16 项检查 + 启动时静默自检，只在有硬伤时告警",
+  "releaseNotes": "修掉三处卡关：行动选项点了被「已取消」回滚、月份推不动（安卓 WebView 吞掉原生 confirm → 全部改自绘弹层）；清除本机全部存档点了没反应（同源，且清完立即刷新界面）；检查更新手机上一律连不上（响应文本解析 + 四源重排 + 每源 5 秒超时 + 失败给逐源诊断）。另修：弹层关过一次就再也弹不出来。新增：设置 → 维护 →「修复记录」逐版列改动、「自检」16 项检查，并在启动时静默自检，只在有硬伤时告警",
   "publishedAt": "2026-11-05",
   "minAndroid": "5.0",
   "author": {
