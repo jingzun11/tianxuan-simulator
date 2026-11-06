@@ -10,6 +10,7 @@
 
 | 版本 | 文件 | 大小 |
 | --- | --- | --- |
+| V1.7 | [TianxuanSim-V1.7.apk](./TianxuanSim-V1.7.apk) | 659 KB |
 | V1.6 | [TianxuanSim-V1.6.apk](./TianxuanSim-V1.6.apk) | 595 KB |
 | V1.5 | [TianxuanSim-V1.5.apk](./TianxuanSim-V1.5.apk) | 531 KB |
 | V1.4 | [TianxuanSim-V1.4.apk](./TianxuanSim-V1.4.apk) | 390 KB |
